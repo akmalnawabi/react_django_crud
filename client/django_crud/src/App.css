@@ -8,7 +8,20 @@
 button {
   background-color: #000;
   color: #fff;
-  padding: 10px 15px;
+  padding: 4px 5px;
   border-radius: 5px;
   cursor: pointer;
+  margin-left: 10px;
+}
+input {
+  padding: 7px 7px;
+  border-radius: 5px;
+  border: 1px solid #000;
+}
+
+.add-book {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
 }
